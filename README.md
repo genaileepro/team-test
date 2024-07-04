@@ -1,27 +1,16 @@
-이 레포지토리는
-숫자 야구 게임을 JavaScript와 HTML로 구현한 게임의 코드입니다.
+# 숫자 맞추기 게임
 
-방식은 간단합니다.
+이 애플리케이션은 간단한 숫자 맞추기 게임입니다. 컴퓨터가 0부터 9까지의 숫자 중에서 세 개의 서로 다른 숫자를 랜덤으로 생성합니다. 사용자는 세 자리 숫자를 입력하여 숫자와 위치를 맞추는 게임을 진행합니다.
 
-JavaScript로 구성된 코드를 통해
-HTML 파일에 연동하여 간단한 숫자 맞추기 게임을 진행합니다.
+## 기능
 
-즐거운 시간 되시기 바랍니다~
+- 컴퓨터가 랜덤으로 세 자리 숫자를 생성
+- 사용자가 숫자를 입력하여 시도
+- 스트라이크와 볼의 개수를 표시
+- 정답을 맞출 경우 축하 메시지와 함께 게임 종료
 
-<게임 방법>
-static 폴더의 사진을 참고해 주세요!!
+## 설치 방법
 
----
-
-This repository contains
-game code for a JavaScript and HTML implementation of a numbers baseball game.
-
-The way it works is simple.
-
-The code is written in JavaScript
-HTML file to play a simple number game.
-
-Enjoy!
-
-<How to play the game>
-Please refer to the pictures in the static folder!!!
+1. 리포지토리를 클론합니다:
+   ```sh
+   git clone https://github.com/your-username/number-guessing-game.git
